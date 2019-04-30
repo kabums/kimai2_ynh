@@ -12,9 +12,9 @@
     "url": "https://v2.kimai.org",
     "license": "MIT",
     "maintainer": {
-        "name": "Anmol Sharma",
-        "email": "anmol@datamol.org",
-        "url": "datamol.org"
+        "name": "kabums",
+        "email": "ks.inco@gmx.de",
+        "url": "gmx.de"
     },
     "requirements": {
         "yunohost": ">= 2.7.2"
